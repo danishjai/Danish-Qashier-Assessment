@@ -1,0 +1,6 @@
+{
+    "staffManagementTab": ".q-item__label",
+    "staffManagementOption": "a[href='#/employee-management']",
+    "addStaffButton": ".q-btn.q-btn-item.non-selectable.no-outline.q-btn--outline.q-btn--rectangle.text-green.q-btn--actionable.q-focusable.q-hoverable.q-mr-sm",
+    "staffDetailsInput": ".q-field__label.no-pointer-events.absolute.ellipsis"
+  }
