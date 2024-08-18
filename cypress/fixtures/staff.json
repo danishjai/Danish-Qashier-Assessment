@@ -4,6 +4,9 @@
   "newStaffPIN": "7890",
   "updatedStaffName": "Danish Jailany",
   "updatedStaffRate": "10.00",
-  "updatedStaffPIN": "1234"
+  "updatedStaffPIN": "1234",
+  "invalidStaffName": " {backspace}",
+  "invalidStaffRate": "5.001",
+  "invalidStaffPIN": "234"
 }
   
